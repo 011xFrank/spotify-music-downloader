@@ -14,7 +14,10 @@ This is a personal project i created used for downloading music using the link t
 ## Usage
 
 Run the following command :<br>
-**python3 music.py url-to-the-spotify-link**<br>
+
+```
+python3 music.py url-to-the-spotify-link<br>
+```
 
 ## Expected Issues
 
