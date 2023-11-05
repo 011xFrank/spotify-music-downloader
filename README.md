@@ -1,6 +1,7 @@
 # Spotify Music Downloader
 
-This is a personal project i created used for downloading music using the link to the song on spotify.
+This is a personal project i created used for downloading music using the link to the song on spotify.<br>
+It can be used to download **Songs**,**playlists** or **Albums**.<br>
 
 ## Setup
 
@@ -23,7 +24,7 @@ Run the following command :<br>
 
 ```
 
-python3 music.py url-to-the-spotify-link<br>
+python3 music.py spotify url<br>
 
 ```
 
