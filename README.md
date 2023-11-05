@@ -14,9 +14,15 @@ This is a personal project i created used for downloading music using the link t
 ## Usage
 
 Run the following command :<br>
-python3 music.py <url to the spotify link><br>
+python3 music.py url-to-the-spotify-link<br>
 
 ## Expected Issues
 
 You are likely to run into a issue that states "youtube-dl Unable to extract uploader id"<br>
 To resolve this issue you can follow the steps on this youtube video https://www.youtube.com/watch?v=Ghe058HpmMk<br>
+
+## Credits
+
+011xFrank
+twitter : frankLinux1732
+github : 011xFrank
