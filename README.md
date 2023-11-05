@@ -19,7 +19,7 @@ Run the following command :<br>
 ## Expected Issues
 
 You are likely to run into a issue that states **"youtube-dl Unable to extract uploader id"**.<br>
-To resolve this issue you can follow the steps on this youtube video https://www.youtube.com/watch?v=Ghe058HpmMk<br>
+To resolve this issue you can follow the steps on this youtube video<br>https://www.youtube.com/watch?v=Ghe058HpmMk<br>
 
 ## Credits
 
