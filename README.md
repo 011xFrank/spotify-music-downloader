@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 Run the following command :<br>
 
-````
+```
 
 python3 music.py url-to-the-spotify-link<br>
 
@@ -37,5 +37,7 @@ To resolve this issue you can follow the steps on this youtube video<br>https://
 011xFrank<br>
 twitter : frankLinux1732<br>
 github : 011xFrank<br>
+
 ```
-````
+
+```
