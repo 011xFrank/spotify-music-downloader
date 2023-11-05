@@ -23,6 +23,6 @@ To resolve this issue you can follow the steps on this youtube video https://www
 
 ## Credits
 
-011xFrank
-twitter : frankLinux1732
-github : 011xFrank
+011xFrank<br>
+twitter : frankLinux1732<br>
+github : 011xFrank<br>
