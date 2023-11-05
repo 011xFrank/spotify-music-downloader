@@ -5,7 +5,13 @@ This is a personal project i created used for downloading music using the link t
 ## Setup
 
 1 . Ensure you have **python3** or **later** installed.<br>
-2 . Install the required packages in the requirements.txt file using the command **pip install -r requirements.txt**.<br>
+2 . Install the required packages in the requirements.txt file using the command:<br>
+
+```
+pip install -r requirements.txt
+```
+
+<br>
 3 . Follow the steps on the following page to obtain your spotify **Client ID** and **Client Secret**:<br>https://cran.r-project.org/web/packages/spotidy/vignettes/Connecting-with-the-Spotify-API.html<br>
 4 . Add the **Client ID**,**Client Secret** on the lines **39**,**40** respectively.(Instructions Given Between Quotes)<br>
 5 . Replace the **music folder** in line **117** with your respective music folder.<br>
@@ -15,8 +21,10 @@ This is a personal project i created used for downloading music using the link t
 
 Run the following command :<br>
 
-```
+````
+
 python3 music.py url-to-the-spotify-link<br>
+
 ```
 
 ## Expected Issues
@@ -29,3 +37,5 @@ To resolve this issue you can follow the steps on this youtube video<br>https://
 011xFrank<br>
 twitter : frankLinux1732<br>
 github : 011xFrank<br>
+```
+````
